@@ -32,5 +32,6 @@ choco install nodejs-lts -y
 choco install python -y 
 choco install arduino -y 
 
+choco install boostnote -y
 # Salae logic for logica analyzer
 # Any games from Steam
