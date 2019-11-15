@@ -33,5 +33,6 @@ choco install arduino -y
 
 choco install boostnote -y
 choco install backup-and-sync -y  
+choco install foxitread -y
 # Salae logic for logica analyzer
 # Any games from Steam
