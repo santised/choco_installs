@@ -6,7 +6,6 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
 
 #Various Apps
-choco install 1password -y 
 choco install spotify -y 
 choco install brave -y 
 
@@ -33,5 +32,6 @@ choco install python -y
 choco install arduino -y 
 
 choco install boostnote -y
+choco install backup-and-sync -y  
 # Salae logic for logica analyzer
 # Any games from Steam
