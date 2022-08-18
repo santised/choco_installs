@@ -4,7 +4,6 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 git clone https://github.com/santised/wonder_dotfiles.git
 git clone https://github.com/santised/Eagle_Settings.git
 git clone https://github.com/santised/choco_installs.git
-https://github.com/jef/nvidia-snatcher.git
 
 # Work
 git clone https://github.com/santised/Eagle_Settings.git
