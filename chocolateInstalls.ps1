@@ -20,6 +20,7 @@ choco install curl -y
 choco install 7zip -y 
 choco install alacritty -y 
 choco install autohotkey -y
+choco install foxitreader -y
 
 # Games
 choco install steam -y 
@@ -27,7 +28,7 @@ choco install steam -y
 choco install geforce-experience -y 
 choco install discord -y
 choco install steelseries-engine -y
-
+choco install msiafterburner -y
 # VIM 
 choco install neovim -y 
 
@@ -38,3 +39,11 @@ choco install arduino -y
 choco install vnc-viewer -y 
 # Any games from Steam
 
+
+# There are no chocolatey packages for the following:
+# AWS VPN Client
+# Salae Logic
+# LT Spice
+# Afterburner (GPU) settings?notes
+# Razer Synapse 3
+# MINGW
